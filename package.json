@@ -1,0 +1,33 @@
+{
+  "name": "tr-domify",
+  "version": "0.1.0",
+  "description": "Browserify transform module for requiring html files through domify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "peerDependencies": {
+    "domify": "~1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acstll/tr-domify"
+  },
+  "keywords": [
+    "browserify",
+    "plugin",
+    "transform",
+    "html",
+    "dom",
+    "domify"
+  ],
+  "author": "Arturo Castillo Delgado <19@8302.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acstll/tr-domify/issues"
+  },
+  "homepage": "https://github.com/acstll/tr-domify"
+}
