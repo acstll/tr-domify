@@ -10,7 +10,7 @@
     "through": "~2.3.4"
   },
   "peerDependencies": {
-    "domify": "~1.0.0"
+    "domify": ">=1.0.0"
   },
   "repository": {
     "type": "git",
